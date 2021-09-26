@@ -1,0 +1,58 @@
+.buy-now{
+    background-image: linear-gradient(to bottom, black, black);
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+   
+}
+.top-banner {
+   
+    height: 550px;  
+    background-image: url("bg-2.png");
+    background-repeat: no-repeat;
+    background-position: bottom, 50px;
+    background-position-x: left;
+   
+}
+.col-md-2 {
+    background-image: url("bg-1.png");
+    background-repeat: no-repeat;
+    height: 600px;  
+}
+.card-body{
+    text-align: center;
+}
+.buy{
+    background-image: linear-gradient(to bottom, black, black);
+    width: 100px;
+    color: white;
+    
+}
+#see-all{
+    color: orange;
+}
+footer{
+    text-align: center;
+}
+
+.col-md-3{
+    padding-top: 200px;
+    padding-left: 190px;
+
+.bag{
+    border: 2px solid white;
+    box-shadow: 1px 1px 1px 1px;
+}
+.last{
+   margin-left: 100px;
+}
+h1{
+     text-align: center;
+}
